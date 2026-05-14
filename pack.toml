@@ -1,12 +1,13 @@
 name = "Create Fly"
 author = "Erik Donath"
 version = "0.0.1"
+description = "Create Fly is a simple Create Modpack."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "01818a55e2a80407a37f9446eefef2ff2e9124373c1580161769fba5bf69a9e4"
+hash = "d3b26fee2cd6bfa8765d9b3c33624bf7ee4fa67cac9f093d6bc47d5cb7b6616b"
 
 [versions]
 minecraft = "1.21.1"
