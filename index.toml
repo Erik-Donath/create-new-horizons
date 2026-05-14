@@ -1,2 +1,9 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "LICENSE"
+hash = "5070a197c8dc23216223ad7b42779d2c662bb93ac13ec609e7b435a0a16a2edd"
+
+[[files]]
+file = "README.md"
+hash = "17babd93132fca7b5ea4a6261bf7feb4616b4bf6cba6d4071bb3b3d1b446403e"
