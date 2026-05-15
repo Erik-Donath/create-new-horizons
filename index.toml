@@ -54,6 +54,11 @@ hash = "a548a99f9d9ba0d237aaf64acee67b29271d05a40c1c3ef87bc1bc18267c640c"
 metafile = true
 
 [[files]]
+file = "mods/create-graphs-stats.pw.toml"
+hash = "528c65571f44b8836d0ef34adf1f1f5db5ae002c0eea05f91bb6aaa82fca740c"
+metafile = true
+
+[[files]]
 file = "mods/create-mixed-casing.pw.toml"
 hash = "f9c3390fd46f6a64e0620264b5a4812d034f00a99aed25e735fae2081979fbb2"
 metafile = true
