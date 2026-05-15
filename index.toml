@@ -6,7 +6,7 @@ hash = "5070a197c8dc23216223ad7b42779d2c662bb93ac13ec609e7b435a0a16a2edd"
 
 [[files]]
 file = "README.md"
-hash = "2a9c7eb7e91679d7fdb4ae9557e4c482cf63d8942bd833176a41f16392c4fcda"
+hash = "5a96f1ad1284e842be4b0ab7c82d55f410944759b4a89ca18980af213e73b2a0"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d2a615d48539929c212fda6a9e44a2737d226aad0b791d61bd31a52b68e12f72"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]

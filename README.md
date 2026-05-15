@@ -46,4 +46,4 @@ This modpack includes the following mods:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Erik-Donath/create-fly/blob/master/LICENSE) file for details.
