@@ -1,6 +1,6 @@
 name = "Create Fly"
 author = "Erik Donath"
-version = "0.0.1"
+version = "0.0.2"
 description = "Create Fly is a simple Create Modpack."
 pack-format = "packwiz:1.1.0"
 
