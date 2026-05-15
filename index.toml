@@ -6,7 +6,7 @@ hash = "5070a197c8dc23216223ad7b42779d2c662bb93ac13ec609e7b435a0a16a2edd"
 
 [[files]]
 file = "README.md"
-hash = "0eb0664135c6b03158c931cdf4c6e58320ba1cc6cf4c3d2d1ec5f2eb07532a88"
+hash = "265120cbf4752618d5b2313849dd9116dea14014745144b8f1bf2d2bc7f48c76"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -54,6 +54,11 @@ hash = "a548a99f9d9ba0d237aaf64acee67b29271d05a40c1c3ef87bc1bc18267c640c"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
 file = "mods/create-graphs-stats.pw.toml"
 hash = "528c65571f44b8836d0ef34adf1f1f5db5ae002c0eea05f91bb6aaa82fca740c"
 metafile = true
@@ -74,8 +79,18 @@ hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "104581a7f2a0b1c164399d278675f68701a2147db5a895188298e049d14dcea9"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "5b529724427fd8b04538c2f49cc8f9b38de49fe46218eb9e07f955f5725d727a"
 metafile = true
 
 [[files]]
@@ -96,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
