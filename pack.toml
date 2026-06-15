@@ -1,13 +1,13 @@
-name = "Create Fly"
+name = "Create New Horizons"
 author = "Erik Donath"
 version = "0.0.2"
-description = "Create Fly is a simple Create Modpack."
+description = "Create New Horizons is a lightweight Create-focused modpack centered around factories, railways, and flying machines."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bd90b18714a77683c29c70897ff3bdf03728afb2c838ba514394e9b9b7c25cb3"
+hash = "4075291f557f9be1024aac3ff95a0de2957d75d06677af0a5f2da7fc12b44cb9"
 
 [versions]
 minecraft = "1.21.1"

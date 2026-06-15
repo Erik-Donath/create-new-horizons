@@ -32,3 +32,24 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: "*.mrpack"
+      
+      - name: Upload to Modrinth
+        env:
+          MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+        run: |
+          FILE=$(ls *.mrpack)
+
+          curl -X POST https://api.modrinth.com/v2/version \
+            -H "Authorization: $MODRINTH_TOKEN" \
+            -H "User-Agent: Erik-Donath/Create-New-Horizons" \
+            -F "data={
+              \"name\":\"${{ github.ref_name }}\",
+              \"version_number\":\"${{ github.ref_name }}\",
+              \project_id\":\"${{ secrets.MODRINTH_PROJECT_ID }}\",
+              \"game_versions\":[\"1.21.1\"],
+              \"loaders\":[\"neoforge\"],
+              \"featured\":true,
+              \"version_type\":\"release\",
+              \"status\":\"listed\"
+            }" \
+            -F "file=@${FILE}"
