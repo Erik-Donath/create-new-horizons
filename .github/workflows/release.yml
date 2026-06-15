@@ -45,7 +45,7 @@ jobs:
             -F "data={
               \"name\":\"${{ github.ref_name }}\",
               \"version_number\":\"${{ github.ref_name }}\",
-              \project_id\":\"${{ secrets.MODRINTH_PROJECT_ID }}\",
+              \"project_id\":\"${{ secrets.MODRINTH_PROJECT_ID }}\",
               \"game_versions\":[\"1.21.1\"],
               \"loaders\":[\"neoforge\"],
               \"featured\":true,
