@@ -1,14 +1,13 @@
-name: Export and Attach Modrinth Modpack
+---
+name: Release Modpack
 
 on:
   release:
     types: [created]
 
 jobs:
-  export:
+  publish:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
@@ -17,39 +16,34 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v5
         with:
-          go-version: "stable"
+          go-version: stable
 
-      - name: Install packwiz
+      - name: Install Packwiz
         run: go install github.com/packwiz/packwiz@latest
 
-      - name: Refresh pack
+      - name: Refresh Pack
         run: packwiz refresh
 
-      - name: Export to Modrinth (.mrpack)
+      - name: Export Modrinth Pack
         run: packwiz modrinth export
 
-      - name: Upload .mrpack to release
-        uses: softprops/action-gh-release@v2
+      - name: Publish to Modrinth
+        uses: Kir-Antipov/mc-publish@v3.3
         with:
-          files: "*.mrpack"
-      
-      - name: Upload to Modrinth
-        env:
-          MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
-        run: |
-          FILE=$(ls *.mrpack)
+          modrinth-id: ${{ secrets.MODRINTH_PROJECT_ID }}
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
 
-          curl -X POST https://api.modrinth.com/v2/version \
-            -H "Authorization: $MODRINTH_TOKEN" \
-            -H "User-Agent: Erik-Donath/Create-New-Horizons" \
-            -F "data={
-              \"name\":\"${{ github.ref_name }}\",
-              \"version_number\":\"${{ github.ref_name }}\",
-              \"project_id\":\"${{ secrets.MODRINTH_PROJECT_ID }}\",
-              \"game_versions\":[\"1.21.1\"],
-              \"loaders\":[\"neoforge\"],
-              \"featured\":true,
-              \"version_type\":\"release\",
-              \"status\":\"listed\"
-            }" \
-            -F "file=@${FILE}"
+          files: "*.mrpack"
+
+          name: ${{ github.event.release.name }}
+          version: ${{ github.ref_name }}
+
+          version-type: release
+
+          loaders: |
+            neoforge
+
+          game-versions: |
+            1.21.1
+
+          changelog: ${{ github.event.release.body }}
