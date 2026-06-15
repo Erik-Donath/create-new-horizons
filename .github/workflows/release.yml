@@ -1,17 +1,21 @@
----
 name: Release Modpack
 
 on:
   release:
-    types: [created]
+    types: [published]
 
 jobs:
   publish:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Go
         uses: actions/setup-go@v5
@@ -21,23 +25,27 @@ jobs:
       - name: Install Packwiz
         run: go install github.com/packwiz/packwiz@latest
 
-      - name: Refresh Pack
+      - name: Refresh pack
         run: packwiz refresh
 
-      - name: Export Modrinth Pack
+      - name: Export Modrinth pack
         run: packwiz modrinth export
 
-      - name: Publish to Modrinth
+      - name: Show exported files
+        run: ls -lah
+
+      - name: Publish to GitHub Release and Modrinth
         uses: Kir-Antipov/mc-publish@v3.3
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-files: "*.mrpack"
+
           modrinth-id: ${{ secrets.MODRINTH_PROJECT_ID }}
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-
-          files: "*.mrpack"
+          modrinth-files: "*.mrpack"
 
           name: ${{ github.event.release.name }}
-          version: ${{ github.ref_name }}
-
+          version: ${{ github.event.release.tag_name }}
           version-type: release
 
           loaders: |
