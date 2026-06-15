@@ -1,6 +1,6 @@
-# Create Fly
+# Create new Horizons
 
-Create Fly is a simple Create modpack.
+Create new Horizons is a lightweight Create-focused modpack centered around building factories, railways, and flying machines with Create Aeronautics.
 
 ## Mods
 
@@ -27,9 +27,9 @@ This modpack includes the following mods:
 - [EMI](https://modrinth.com/mod/emi)
 - [Entity Culling](https://modrinth.com/mod/entityculling)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
-- [Immediatelyfast](https://modrinth.com/mod/immediatelyfast)
-- [Iris](https://modrinth.com/mod/iris)
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [Inventory Essentials](https://modrinth.com/mod/inventory-essentials)
+- [Iris](https://modrinth.com/mod/iris)
 - [Lithium](https://modrinth.com/mod/lithium)
 - [Moonlight](https://modrinth.com/mod/moonlight)
 - [Polymorph](https://modrinth.com/mod/polymorph)
@@ -49,6 +49,11 @@ This modpack includes the following mods:
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
 
+## Links
+
+- Modrinth: https://modrinth.com/project/create-new-horizons
+- GitHub: https://github.com/Erik-Donath/create-new-horizons
+
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Erik-Donath/create-fly/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Erik-Donath/create-new-horizons/blob/master/LICENSE) file for details.
