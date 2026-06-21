@@ -1,6 +1,8 @@
 # Create new Horizons
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Erik-Donath/create-new-horizons/blob/master/LICENSE)
 
+[![Icon](https://github.com/Erik-Donath/create-new-horizons/blob/master/Create%20New%20Horizon%20Icon.png?raw=true)](#)
+
 Create new Horizons is a lightweight Create-focused modpack centered around building factories, railways, and flying machines with Create Aeronautics.
 
 ## Mods
