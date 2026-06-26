@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Create New Horizon Icon.png"
+hash = "7c1b714cdabf29f7276e75d0a8183c606fad070e3871285e18d961fb4058dcce"
+
+[[files]]
 file = "LICENSE"
 hash = "5070a197c8dc23216223ad7b42779d2c662bb93ac13ec609e7b435a0a16a2edd"
 
 [[files]]
 file = "README.md"
-hash = "234618f9eac56efa05576b819da4d686d8f1d878b62a65d89b31d689c80a597b"
+hash = "ae916a2a03587a807ccb347f6172845ef7864a7d04344d105f9c6a5f803c1eb7"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
