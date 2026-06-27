@@ -10,7 +10,7 @@ hash = "5070a197c8dc23216223ad7b42779d2c662bb93ac13ec609e7b435a0a16a2edd"
 
 [[files]]
 file = "README.md"
-hash = "aea50f65efbde1bf829093b765bfefcf454b721c942f0d6f73640f6b972df1e7"
+hash = "72e12b43490c938b27aac133ad44db987a6106e746315e8fb2ed992a599e663d"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -98,6 +98,11 @@ hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/deployer.pw.toml"
 hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
 metafile = true
@@ -154,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bf3757240109ab1b642e90a8905454aa1ee715d76c55e979f51e96af6f4d07c9"
+hash = "9d84be24f2e6adbf75dec35a2bc9b147c840eefe2a7f4138c40cb7ca315f2678"
 metafile = true
 
 [[files]]
