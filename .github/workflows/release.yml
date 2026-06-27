@@ -50,8 +50,25 @@ jobs:
 
           loaders: |
             neoforge
+          
+          java: |
+            21
 
           game-versions: |
             1.21.1
 
           changelog: ${{ github.event.release.body }}
+          fail-mode: fail
+
+      - name: Sync README to Modrinth
+        env:
+          MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+          MODRINTH_PROJECT_ID: ${{ secrets.MODRINTH_PROJECT_ID }}
+        run: |
+          jq -Rs '{body: .}' README.md |
+            curl --fail-with-body \
+              --request PATCH \
+              --url "https://api.modrinth.com/v2/project/${MODRINTH_PROJECT_ID}" \
+              --header "Authorization: ${MODRINTH_TOKEN}" \
+              --header "Content-Type: application/json" \
+              --data @-
