@@ -51,6 +51,7 @@ This modpack includes the following mods:
 - [Entity Culling](https://modrinth.com/mod/entityculling)
 - [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks)
 - [Tiny Redstone](https://modrinth.com/mod/tiny-redstone)
+
 ## Links
 
 - Modrinth: https://modrinth.com/project/create-new-horizons
