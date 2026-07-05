@@ -29,12 +29,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "76122ac2bb341daceebb19cd69e1f3bf19efea88fa59010865c1b8f02ea1d759"
+hash = "7d5659cf745f95eedf7a907184698eb950d5ef067d011da028b72a578642fe90"
 metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "37784a1f9ab276e618f3d29bf0ea641811f7f6d3a740179e0332e7794b91679e"
+hash = "d9a3b87e4046a43d3e809434f8a83866556b70b68d5c0b1be2372d127ea8ce00"
 metafile = true
 
 [[files]]
@@ -65,6 +65,11 @@ metafile = true
 [[files]]
 file = "mods/create-graphs-stats.pw.toml"
 hash = "194698bbc13da7aaaf78698090dc7dd54e560b9ff561ef1c85dfc1e900180c69"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "987f762c305a3e6264b3379388467d7d4d90b89a6e08aa83edac0f6172db4f72"
 metafile = true
 
 [[files]]
@@ -134,12 +139,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
+hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
 metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "089d9964a4488354291274d44b5a0707254f3ea18addbbe2a65a9cf56c9ebb8b"
+hash = "8e5e8e0c5e2a5f1de43a73d3e81d0397a3873d383d885a9aaa080a7e0c2b242f"
 metafile = true
 
 [[files]]
@@ -149,17 +154,17 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e7b3c08c8b168d15e3997d41d0480d1d35cba0bdda94094f123d1eef65d0b0c4"
+hash = "65d7dbf55554eea06332064358bfe6c30f329fed683679b95603c0168a893b07"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9d84be24f2e6adbf75dec35a2bc9b147c840eefe2a7f4138c40cb7ca315f2678"
+hash = "018eeaa17d34a6010be48e946ad26973e24e125cfdf6f87cbd79f0cd7d5901ce"
 metafile = true
 
 [[files]]
@@ -174,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "723e363273ff9fea18f1d2cf0b2d469901f9c4a1f1ffdd8093fa435451deef95"
+hash = "ae1a00455be0edadffea3e272b43a7d8080a501fc4fe0e3e8ff91bb81903d6e6"
 metafile = true
 
 [[files]]
@@ -184,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "1aad262000bea80b345a973a19a626bfbcb65b2ba78843843649e740168d04fd"
+hash = "d379a43459f5d24be47e6518a804dcf303b344b9e8a870d30213efd392c7a05e"
 metafile = true
 
 [[files]]
@@ -194,12 +199,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "2950556c3171e961c78ac6dfb82a006b2b9ad78eebda1930c7f1f436cf6db64b"
+hash = "2d7e60e4deb50fe41e71b989616e08405699c5e24c27c9435277f29a30235b85"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "e2bc8421e37aa8cfab1f4d6f218653032b6b2f4b89dda0db759be9e089ffc741"
+hash = "53bd4d43af2a6018d198b18570dce8f9122e38b8e55afc09e522f9f8267fed07"
 metafile = true
 
 [[files]]
@@ -209,12 +214,12 @@ metafile = true
 
 [[files]]
 file = "mods/tinycreate.pw.toml"
-hash = "7e0f8dd65388ada639cce69470901f82594d7186a2a3d99bf86b5720fc01d248"
+hash = "e1a2cc6f6a12e1df0d747dd5a4e77ba8b1b4f88b67a01fb0d74dcd0a55af5c58"
 metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "80106ddf7ab5cec205fdf14caf75ce286ffa3be269f7f8a2e6eb87764b3ec4ff"
+hash = "000f11dff1ecc83fe66c6a998cf94e583cdce2ea3cc7ece7f66d7fc91cad7936"
 metafile = true
 
 [[files]]
