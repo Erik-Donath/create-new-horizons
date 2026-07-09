@@ -10,11 +10,16 @@ hash = "5070a197c8dc23216223ad7b42779d2c662bb93ac13ec609e7b435a0a16a2edd"
 
 [[files]]
 file = "README.md"
-hash = "72e12b43490c938b27aac133ad44db987a6106e746315e8fb2ed992a599e663d"
+hash = "bf3b4f122127c9c76241b379ddacf9579d6c7a17ef406063be7e594c43c6aa31"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "b2890f92c87f48cb45a0d8053f69afdbee6ce828c07cd0d7d4c3fd7c201e3eb0"
+metafile = true
+
+[[files]]
+file = "mods/almostunified.pw.toml"
+hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
 metafile = true
 
 [[files]]
@@ -64,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-graphs-stats.pw.toml"
-hash = "194698bbc13da7aaaf78698090dc7dd54e560b9ff561ef1c85dfc1e900180c69"
+hash = "cf0d1cc245400f14674ccdf77b110658c2d4d84156f98df06ae3b0a0cae84fec"
 metafile = true
 
 [[files]]
@@ -100,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
+metafile = true
+
+[[files]]
+file = "mods/createaddoncompatibility.pw.toml"
+hash = "046a80051e21c0bab042ad1b7e27d42a7456fd36cfabf0454e9110ec345078fd"
 metafile = true
 
 [[files]]
@@ -154,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "65d7dbf55554eea06332064358bfe6c30f329fed683679b95603c0168a893b07"
+hash = "7a1cf860c2761f6ae16333f869c75bb2af1d079c61b7f94e6af3265886f4dec0"
 metafile = true
 
 [[files]]
@@ -194,17 +204,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b09f7819bbd22c2cc6a70601295721cb3bee6d830ca2f51fdacb50de519596e8"
+hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "2d7e60e4deb50fe41e71b989616e08405699c5e24c27c9435277f29a30235b85"
+hash = "8d0f5b702b813c816f9197444f59e81c72a01c47ff186f6c771dd5fae2b37190"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "53bd4d43af2a6018d198b18570dce8f9122e38b8e55afc09e522f9f8267fed07"
+hash = "636339949e3f45c2620128d5414071d91e4bdf98deb51f2bd657df157ec76d8b"
 metafile = true
 
 [[files]]
@@ -219,15 +229,15 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "000f11dff1ecc83fe66c6a998cf94e583cdce2ea3cc7ece7f66d7fc91cad7936"
+hash = "ac47c20d97ad6eec049684f3accf4552d96c73e28fe9404cf3dcc7bbeb9b5237"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3f9e51bfceabca41c537e58b8767bdb4273fdafe9f08bc472ebc255554617ad2"
+hash = "3d282394e31d1144cffcaa864903da227847c59184f3b508e8e3b594f2bdd083"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "67121835339ff35bc213b2ede0375d10de4c1fc9f40c7579a47ebc1a3d050648"
+hash = "0cc5eab0da976be1fc33b8dd225bddd064078a829ec8f361564ec03666354546"
 metafile = true
