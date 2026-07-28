@@ -10,6 +10,7 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 ### Create & Addons
 - [Create](https://modrinth.com/mod/create)
 - [Create Aeronautics](https://modrinth.com/mod/create-aeronautics)
+- [AeroEngine](https://modrinth.com/mod/aeroengine)
 - [Create: Connected](https://modrinth.com/mod/create-connected)
 - [Create: Copycats](https://modrinth.com/mod/copycats)
 - [Create: Deco](https://modrinth.com/mod/create-deco)
