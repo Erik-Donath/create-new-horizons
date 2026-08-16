@@ -1,6 +1,6 @@
 name = "Create New Horizons"
 author = "Erik Donath"
-version = "0.1.2"
+version = "1.1.2"
 description = "Create New Horizons is a lightweight Create-focused modpack centered around factories, railways, and flying machines."
 pack-format = "packwiz:1.1.0"
 
