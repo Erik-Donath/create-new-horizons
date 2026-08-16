@@ -10,7 +10,7 @@ hash = "5070a197c8dc23216223ad7b42779d2c662bb93ac13ec609e7b435a0a16a2edd"
 
 [[files]]
 file = "README.md"
-hash = "48a4f12f4f9eec5998e11174b9a367f444cadb4e1cead7b5463f33e5b66eb653"
+hash = "22fc2e4fed7a74c802be7cbcb1e8f4b0b881d0869980c4ffc7a4760ed111a6b1"
 
 [[files]]
 file = "config/recreative/reorder_tabs.json"
@@ -169,6 +169,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/imguimc.pw.toml"
+hash = "1f372d453fc1bbca0e7c04137abfd94575d14bb1ee58d56004741df0ae368c82"
 metafile = true
 
 [[files]]

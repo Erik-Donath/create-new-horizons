@@ -72,6 +72,7 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 - [Balm](https://modrinth.com/mod/balm)
 - [Curios API](https://modrinth.com/mod/curios)
 - [Moonlight](https://modrinth.com/mod/moonlight)
+- [ImGuiMC](https://modrinth.com/mod/imguimc)
 
 ## Links
 
