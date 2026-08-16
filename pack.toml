@@ -1,13 +1,13 @@
 name = "Create New Horizons"
 author = "Erik Donath"
-version = "0.1.1"
+version = "0.1.2"
 description = "Create New Horizons is a lightweight Create-focused modpack centered around factories, railways, and flying machines."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b0f43fb63031ec694e2ac2945031a1e326fbe1386ca8b50e137c0fe7eed5ea0f"
+hash = "ad5b860f73c5ec458063d59b0b2ed1ccf17ae6c87ed6621e36436d4e671cc0d0"
 
 [versions]
 minecraft = "1.21.1"

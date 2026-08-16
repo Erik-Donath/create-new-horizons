@@ -13,6 +13,10 @@ file = "README.md"
 hash = "6725636f692f8ad165966630cddffd514a8d2ee9928c9cca3e89de383f88e44d"
 
 [[files]]
+file = "config/recreative/reorder_tabs.json"
+hash = "803db3d20ece076314c048023b387178cb1e45c2ffcc0e71f5797e08f78691a2"
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "b2890f92c87f48cb45a0d8053f69afdbee6ce828c07cd0d7d4c3fd7c201e3eb0"
 metafile = true
@@ -39,17 +43,17 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "5906ab9415bb5d894dc41bc4b0035d3c22e261877cf8578c2c4c45af8b4bb159"
+hash = "7dba9a4a9894a6bbab3a8c7edcc718499297412247fc0e8ccebf75b760c85140"
 metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "3a9295215e3a815a0dd459a04ca8e9ac39eefed7e6fa7c08eb53165f5f3b165b"
+hash = "8eeaf5023a8c5978f68ecd71d09ac46516167111ab2f46ab2c3909b8f9283f92"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "14f862ceab11545e0a446df8c91c95ae7434ca4975db1357ad2001b6ec321e45"
+hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
 metafile = true
 
 [[files]]
@@ -73,8 +77,18 @@ hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "80547db2ebfc71d0d649534fe6fee7dabcf2a58770e8ff38218f6db874382204"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "2f964519fc28e290ba5e99609c67393c4aacda1a665f33bb913d847b137683b9"
+metafile = true
+
+[[files]]
 file = "mods/create-graphs-stats.pw.toml"
-hash = "cf0d1cc245400f14674ccdf77b110658c2d4d84156f98df06ae3b0a0cae84fec"
+hash = "e34c7affd16fdefc8ade48c687667434609bd8a112254cc7e477ba3cc57bd0f6"
 metafile = true
 
 [[files]]
@@ -85,6 +99,11 @@ metafile = true
 [[files]]
 file = "mods/create-mixed-casing.pw.toml"
 hash = "f9c3390fd46f6a64e0620264b5a4812d034f00a99aed25e735fae2081979fbb2"
+metafile = true
+
+[[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "3956311952e50e1b437d8e7c5af4537feebd3d95bd5435192b78b251cab38bf2"
 metafile = true
 
 [[files]]
@@ -163,13 +182,18 @@ hash = "8e5e8e0c5e2a5f1de43a73d3e81d0397a3873d383d885a9aaa080a7e0c2b242f"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "ed85b2ed42beb6523223eef6f0ae397ed29f8059b2bf5aa08d8598de04865614"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b5c564cf55a73d7c5118ecf841bffa18c148e025170ab6370112fdfa8b6b6ab9"
+hash = "1b7de11aec3659d7240c71a5181627d34cc270c264d9ce58a944fc9dd28a85cf"
 metafile = true
 
 [[files]]
@@ -179,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "688a2fcd58d20df93c57e571b054b3c582932a795a255dc13c65b055dc1880b1"
+hash = "cc903ca450e9667ad5a951110f6e84f22c9e52635bf39321ca4294bc8313797e"
 metafile = true
 
 [[files]]
@@ -189,7 +213,12 @@ metafile = true
 
 [[files]]
 file = "mods/power-grid.pw.toml"
-hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
+hash = "0a8751beba30f064c60e2baa923aa677ff2e885f065cff915a9e771190c47053"
+metafile = true
+
+[[files]]
+file = "mods/recreative.pw.toml"
+hash = "fd0f559e13df74d1f2806ffcc516acd374a91438b65a0ec21a7e71ab37a42dc5"
 metafile = true
 
 [[files]]
@@ -209,17 +238,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
+hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "16d83873bed6c9301df009a4f21ba45f920d3fca7536e4cd8b719c73393209e8"
+hash = "0a6569216d10ece81da8983e61e29245fdedd54568ec7b651f0373dd5f3970e8"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "f1ac2f9ecce242d0f193db475dba673da2bd5ee04b59d3e750699e7b7c4d1f39"
+hash = "994e4c01094118ccc8f1c860bc1b2e94108b0a107fb93ed81e52700f670f8768"
 metafile = true
 
 [[files]]
@@ -234,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "3dc8b4dd274b51761de3799fdbb1680aa74263ed790b4224bcaa2dccab85477b"
+hash = "83515b23902492ac0210a70039585124490253309612e8a1b42c277de35755ca"
 metafile = true
 
 [[files]]
