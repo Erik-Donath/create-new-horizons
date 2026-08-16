@@ -15,9 +15,12 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 - [Create: Copycats](https://modrinth.com/mod/copycats)
 - [Create: Deco](https://modrinth.com/mod/create-deco)
 - [Create: Addition](https://modrinth.com/mod/createaddition)
+- [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus)
+- [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)
 - [Create: Extra Gauges](https://modrinth.com/mod/extra-gauges)
 - [Create: Liquid Fuel](https://modrinth.com/mod/create-liquid-fuel)
 - [Create: Mixed Casing](https://modrinth.com/mod/create-mixed-casing)
+- [Create: Mobile Packages](https://modrinth.com/mod/create-mobile-packages)
 - [Create: Pattern Schematics](https://modrinth.com/mod/create-pattern-schematics)
 - [Create: Power Grid](https://modrinth.com/mod/power-grid)
 - [Create: Power Loader](https://modrinth.com/mod/create-power-loader)
@@ -40,6 +43,7 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 - [Polymorph](https://modrinth.com/mod/polymorph)
 - [Create: Addon Compatibility](https://modrinth.com/mod/createaddoncompatibility)
 - [Almost Unified](https://modrinth.com/mod/almost-unified)
+- [Recreative](https://modrinth.com/mod/recreative)
 
 ### Maps & Navigation
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
@@ -49,6 +53,7 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 - [Vista TV](https://modrinth.com/mod/vista_tv)
 - [Sable](https://modrinth.com/mod/sable)
 - [Iris](https://modrinth.com/mod/iris)
+- [Iris & Oculus Flywheel Compat](https://modrinth.com/mod/iris-flw-compat)
 
 ### Performance
 - [Sodium](https://modrinth.com/mod/sodium)
