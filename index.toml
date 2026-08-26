@@ -10,11 +10,31 @@ hash = "5070a197c8dc23216223ad7b42779d2c662bb93ac13ec609e7b435a0a16a2edd"
 
 [[files]]
 file = "README.md"
-hash = "456e13edcc422fded08fe713a0120ca107bc9e4b6b74ba3dd6cd9da3654acf50"
+hash = "5fb063bae3ace9b5082ecb35cc08a69a001a3de418b1e129d95266c59ec509b0"
+
+[[files]]
+file = "config/global_packs.toml"
+hash = "80a6c6407b621c7b48dfbd8a9e5142c78ce270ecd15aa1b504c2d6089cb74e9b"
 
 [[files]]
 file = "config/recreative/reorder_tabs.json"
 hash = "803db3d20ece076314c048023b387178cb1e45c2ffcc0e71f5797e08f78691a2"
+
+[[files]]
+file = "datapacks/create-new-horizons/data/create-new-horizon/function/load.mcfunction"
+hash = "73b61a15e960d583a2f6b37904c9573b5ba7680d6388fa41494f91890c10bb09"
+
+[[files]]
+file = "datapacks/create-new-horizons/data/minecraft/tags/function/load.json"
+hash = "ec5a0c30466fd3a88cf494a074b469c74098a6daab5cbba7bbeab681d52119a6"
+
+[[files]]
+file = "datapacks/create-new-horizons/pack.mcmeta"
+hash = "005c7690bea1226bdba3063862e135053654b36e19d6b3bd52e3e9f84a303b8f"
+
+[[files]]
+file = "datapacks/create-new-horizons/pack.png"
+hash = "7c1b714cdabf29f7276e75d0a8183c606fad070e3871285e18d961fb4058dcce"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -169,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
 metafile = true
 
 [[files]]

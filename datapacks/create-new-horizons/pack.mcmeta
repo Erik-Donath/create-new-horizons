@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": {
+      "min_inclusive": 48,
+      "max_inclusive": 48
+    },
+    "description": {
+      "text": "Create New Horizons\nBy Erik Donath\nA lightweight, Create-focused modpack built around factories, railways, and flying machines.",
+      "color": "gold"
+    }
+  }
+}

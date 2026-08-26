@@ -43,6 +43,7 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 - [Polymorph](https://modrinth.com/mod/polymorph)
 - [Create: Addon Compatibility](https://modrinth.com/mod/createaddoncompatibility)
 - [Almost Unified](https://modrinth.com/mod/almost-unified)
+- [Global Packs](https://modrinth.com/mod/globalpacks)
 - [Recreative](https://modrinth.com/mod/recreative)
 
 ### Maps & Navigation
@@ -87,6 +88,8 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 - Sodium: 0.8.13-beta.2
 
 Iris and Sodium use beta releases because Sable, Sodium Extra, and Reese's Sodium Options require the Sodium 0.8.12+ series. The stable Iris 1.8.12 release targets the incompatible Sodium 0.6.13 series.
+
+Global Packs automatically loads the included Create New Horizons datapack in every world.
 
 ## Links
 
