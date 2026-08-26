@@ -55,6 +55,11 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 - [Iris](https://modrinth.com/mod/iris)
 - [Iris & Oculus Flywheel Compat](https://modrinth.com/mod/iris-flw-compat)
 
+### Information & Interface
+- [Jade](https://modrinth.com/mod/jade)
+- [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
+- [Jade Sable Compat](https://modrinth.com/mod/jade-sable-compat)
+
 ### Performance
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
@@ -73,6 +78,15 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 - [Curios API](https://modrinth.com/mod/curios)
 - [Moonlight](https://modrinth.com/mod/moonlight)
 - [ImGuiMC](https://modrinth.com/mod/imguimc)
+
+## Compatibility
+
+- Minecraft: 1.21.1
+- NeoForge: 21.1.248
+- Iris: 1.8.14-beta.1
+- Sodium: 0.8.13-beta.2
+
+Iris and Sodium use beta releases because Sable, Sodium Extra, and Reese's Sodium Options require the Sodium 0.8.12+ series. The stable Iris 1.8.12 release targets the incompatible Sodium 0.6.13 series.
 
 ## Links
 

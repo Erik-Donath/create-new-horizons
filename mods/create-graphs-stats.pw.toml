@@ -1,13 +1,13 @@
 name = "Create: Stats & Additions"
-filename = "create_stats-1.1.33SJ.jar"
+filename = "create_stats-1.2.81.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/inKFQSzo/versions/Fp78AyZd/create_stats-1.1.33SJ.jar"
+url = "https://cdn.modrinth.com/data/inKFQSzo/versions/4RwgUE5P/create_stats-1.2.81.jar"
 hash-format = "sha512"
-hash = "d7559f65e50542109abb31074ee3617c012f9e33d94c0a11da6bf67ad5a7d3307b0e2cf9eaa311ea25abf1eecc8070918b7ac3a5793d3e616e90675b6acc00cb"
+hash = "1176c7e38936e25b18d82dd51d2e7c52d2d51ed2b4ed927779af8fa31006fd10f0c026b9bd267a1d46572d05683256ad2eee479fc1dc335d1f283a8ae8d5c81c"
 
 [update]
 [update.modrinth]
 mod-id = "inKFQSzo"
-version = "Fp78AyZd"
+version = "4RwgUE5P"
