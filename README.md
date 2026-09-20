@@ -41,7 +41,6 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 - [Polymorph](https://modrinth.com/mod/polymorph)
 - [Create: Addon Compatibility](https://modrinth.com/mod/createaddoncompatibility)
 - [Almost Unified](https://modrinth.com/mod/almost-unified)
-- [Global Packs](https://modrinth.com/mod/globalpacks)
 - [Recreative](https://modrinth.com/mod/recreative)
 
 ### Maps & Navigation
@@ -58,6 +57,7 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 - [Jade](https://modrinth.com/mod/jade)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
 - [Jade Sable Compat](https://modrinth.com/mod/jade-sable-compat)
+- [Better Advanced Tooltips](https://modrinth.com/mod/better-advanced-tooltips)
 
 ### Performance
 - [Sodium](https://modrinth.com/mod/sodium)
@@ -71,6 +71,10 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 - [Bad Optimizations](https://modrinth.com/mod/badoptimizations)
 - [e4mc](https://modrinth.com/mod/e4mc)
 
+### Scripting
+- [KubeJS](https://modrinth.com/mod/kubejs)
+- [Rhino](https://modrinth.com/mod/rhino)
+
 ### Libraries
 - [Architectury API](https://modrinth.com/mod/architectury-api)
 - [Balm](https://modrinth.com/mod/balm)
@@ -81,13 +85,9 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 ## Compatibility
 
 - Minecraft: 1.21.1
-- NeoForge: 21.1.248
-- Iris: 1.8.14-beta.1
-- Sodium: 0.8.13-beta.2
-
-Iris and Sodium use beta releases because Sable, Sodium Extra, and Reese's Sodium Options require the Sodium 0.8.12+ series. The stable Iris 1.8.12 release targets the incompatible Sodium 0.6.13 series.
-
-Global Packs automatically loads the included Create New Horizons datapack in every world.
+- NeoForge: 21.1.251
+- Iris: 1.8.12
+- Sodium: 0.8.13
 
 ## Links
 

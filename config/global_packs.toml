@@ -1,6 +1,0 @@
-config_version = 3
-
-[datapacks]
-required = [
-    "datapacks/create-new-horizons/"
-]
