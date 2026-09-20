@@ -86,7 +86,7 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 
 - Minecraft: 1.21.1
 - NeoForge: 21.1.251
-- Iris: 1.8.12
+- Iris: 1.8.14-beta.1
 - Sodium: 0.8.13
 
 ## Links
