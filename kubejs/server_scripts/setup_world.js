@@ -1,10 +1,11 @@
-const MODPACK_VERSION = "1.0.4"
+const MODPACK_VERSION = "1.0.5"
 
 ServerEvents.loaded(event => {
     let server = event.server
     let pData  = server.persistentData
 
     if(pData.getString('modpack_version') !== MODPACK_VERSION) {
+        // Setting gamerules for the modpack
         server.runCommandSilent('gamerule waterSourceConversion true')
         server.runCommandSilent('gamerule lavaSourceConversion true')
         server.runCommandSilent('gamerule randomTickSpeed 12')

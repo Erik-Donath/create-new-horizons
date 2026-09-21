@@ -17,24 +17,20 @@ file = "kubejs/assets/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "kubejs/client_scripts/jsconfig.json"
-hash = "074d0711e4acb8ad4f0421127c8df1e8eb73c060bf0417bb159fc05239dbdcb8"
-
-[[files]]
 file = "kubejs/data/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "kubejs/package.json"
-hash = "3d04369a44dc75f6a70dfc51080beb357eb39b395a2db0b6557ce8b9900ceec4"
-
-[[files]]
-file = "kubejs/server_scripts/jsconfig.json"
-hash = "42c92ad557857b1c4a99cf2ef009e6e65ef00615df0f9513b71312817e938f6f"
+file = "kubejs/server_scripts/recipies.js"
+hash = "4d6a7131b86bdf282a2a8d73d09d2f9fac8948e52923cd6bfe9b0a45f5d9c449"
 
 [[files]]
 file = "kubejs/server_scripts/setup_world.js"
-hash = "c4cbed8190a5df54c310b68a944953406c9b93bd7f3c740cf25074452d2b4eb4"
+hash = "d574e2811565275dced89f0462486e38ec720b919daa4e3e98ac2b1ff72cffb6"
+
+[[files]]
+file = "kubejs/startup_scripts/welcome.js"
+hash = "a08b40173dc6d21387f295e03d2823c2287d336dc2c933408ede8919ade09022"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"

@@ -1,3 +1,8 @@
 .git/*
 .github/*
+
+# Ignore kubejs dev files
 .probe/*
+kubejs/server_scripts/jsconfig.json
+kubejs/client_scripts/jsconfig.json
+kubejs/package.json
