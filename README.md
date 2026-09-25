@@ -84,6 +84,7 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 
 ## Features and Customizations
 - **Recipe Package Attribute Filter:** Added an Attribute Filter that checks whether a given Package contains a recipe (e.g., used by a Mechanical Crafter).
+- **Quartz Recipe**: Quartz Blocks can now be crafted back into 4 Quartz.
 
 ## Compatibility
 - Minecraft: 1.21.1
