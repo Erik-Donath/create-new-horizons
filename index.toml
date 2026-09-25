@@ -6,14 +6,22 @@ hash = "5070a197c8dc23216223ad7b42779d2c662bb93ac13ec609e7b435a0a16a2edd"
 
 [[files]]
 file = "README.md"
-hash = "40117cfcc2dd4061f2691c4ad962bdd139292865ee1b6edf82be2d290bd56733"
+hash = "736ce2179625a8210bf3652bb9ddf61691c6b19611cd62305788d8ea5ac8c0bc"
 
 [[files]]
 file = "config/recreative/reorder_tabs.json"
 hash = "803db3d20ece076314c048023b387178cb1e45c2ffcc0e71f5797e08f78691a2"
 
 [[files]]
-file = "kubejs/assets/.gitkeep"
+file = "kubejs/assets/create/lang/de_de.json"
+hash = "731ebba6bdb9514ea97901d75bded5797b793d15e15a75db1269911ee7e1b9fa"
+
+[[files]]
+file = "kubejs/assets/create/lang/en_us.json"
+hash = "23d0aea70164b654f89bdef73749293090ad705a04705e55fd55492538b77fc5"
+
+[[files]]
+file = "kubejs/client_scripts/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
@@ -27,6 +35,10 @@ hash = "4d6a7131b86bdf282a2a8d73d09d2f9fac8948e52923cd6bfe9b0a45f5d9c449"
 [[files]]
 file = "kubejs/server_scripts/setup_world.js"
 hash = "d574e2811565275dced89f0462486e38ec720b919daa4e3e98ac2b1ff72cffb6"
+
+[[files]]
+file = "kubejs/startup_scripts/package_craftable_attribute.js"
+hash = "15307255faf52ead2f6fbe3f53442da8e7207d161be831a92b425e352dacc8eb"
 
 [[files]]
 file = "kubejs/startup_scripts/welcome.js"
@@ -59,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7dba9a4a9894a6bbab3a8c7edcc718499297412247fc0e8ccebf75b760c85140"
+hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
 metafile = true
 
 [[files]]
@@ -179,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "9448043e083a2e45e77de4d88c628155ae174b37ea2ebfc3efe237fcdc956302"
+hash = "30d6875d934c57d5827f29f35ca77efc72a21df361ad3d578b93e7e137a39654"
 metafile = true
 
 [[files]]
@@ -204,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "8ed1d89bfcb006c0f65f6cb7da568edae3a673cd95ce29df62d26144cb5ee83d"
+hash = "1307631109d2e715e36a93469bd9f7fafaf6c0f408016cd96efc25bac495acb8"
 metafile = true
 
 [[files]]
@@ -234,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2a740b39e014011fa33d9e169a4ded38d68dd8da6f244a17a4df4fd38c865613"
+hash = "fb3233553d7a88373fcd54e6fbeac1f593fdfbe44f00e0c24790a01774545e2f"
 metafile = true
 
 [[files]]
@@ -249,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a5794d747743ac8800355f1ac570b40baaf0bb195ff57beb0c2d0176a0530b94"
+hash = "bdb50204369d9b6d8b5dbd7659795e443be6508448bf937e4f866c037842d09f"
 metafile = true
 
 [[files]]
@@ -314,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "ba5ac5c403ee9a350990271fb3a51ece78e8be80578203099032457576496b90"
+hash = "45eacb077412e52f365954d9fb8ddd58585eba1db841aacec84223e6cb0da28f"
 metafile = true
 
 [[files]]

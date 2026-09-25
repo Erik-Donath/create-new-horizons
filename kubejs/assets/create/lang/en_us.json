@@ -1,0 +1,4 @@
+{
+  "create.item_attributes.package_craftable": "Contains a Crafting Order",
+  "create.item_attributes.package_craftable.inverted": "Does not contain a Crafting Order"
+}

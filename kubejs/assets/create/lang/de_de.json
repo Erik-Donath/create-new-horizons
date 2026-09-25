@@ -1,0 +1,4 @@
+{
+  "create.item_attributes.package_craftable": "Enthält einen Handwerksauftrag",
+  "create.item_attributes.package_craftable.inverted": "Enthält keinen Handwerksauftrag"
+}

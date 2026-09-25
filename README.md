@@ -82,18 +82,18 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 - [Moonlight](https://modrinth.com/mod/moonlight)
 - [ImGuiMC](https://modrinth.com/mod/imguimc)
 
-## Compatibility
+## Features and Customizations
+- **Recipe Package Attribute Filter:** Added an Attribute Filter that checks whether a given Package contains a recipe (e.g., used by a Mechanical Crafter).
 
+## Compatibility
 - Minecraft: 1.21.1
 - NeoForge: 21.1.251
 - Iris: 1.8.14-beta.1
 - Sodium: 0.8.13
 
 ## Links
-
 - Modrinth: https://modrinth.com/project/create-new-horizons
 - GitHub: https://github.com/Erik-Donath/create-new-horizons
 
 ## License
-
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Erik-Donath/create-new-horizons/blob/master/LICENSE) file for details.
