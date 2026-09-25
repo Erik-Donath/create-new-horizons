@@ -6,7 +6,7 @@ hash = "5070a197c8dc23216223ad7b42779d2c662bb93ac13ec609e7b435a0a16a2edd"
 
 [[files]]
 file = "README.md"
-hash = "6367926b62553c401eced40d203c231551ff330233851aaf4e8679a7a573a5bc"
+hash = "9980f11db33ff32a6e5a89ccaef001c11c34a7e377398cf3e0aad295d8fa20e9"
 
 [[files]]
 file = "config/recreative/reorder_tabs.json"
