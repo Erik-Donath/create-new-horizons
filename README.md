@@ -52,6 +52,8 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 - [Sable](https://modrinth.com/mod/sable)
 - [Iris](https://modrinth.com/mod/iris)
 - [Iris & Oculus Flywheel Compat](https://modrinth.com/mod/iris-flw-compat)
+- [Iris Bonk](https://modrinth.com/mod/irisbonk)
+- [Veil Bonk](https://modrinth.com/mod/veil-bonk)
 
 ### Information & Interface
 - [Jade](https://modrinth.com/mod/jade)
@@ -64,12 +66,20 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 - [Lithium](https://modrinth.com/mod/lithium)
+- [ModernFix](https://modrinth.com/mod/modernfix)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [C2ME](https://modrinth.com/mod/c2me-neoforge)
 - [Entity Culling](https://modrinth.com/mod/entityculling)
+- [More Culling](https://modrinth.com/mod/moreculling)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [Bad Optimizations](https://modrinth.com/mod/badoptimizations)
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+- [Remove Reloading Screen](https://modrinth.com/mod/rrls)
 - [e4mc](https://modrinth.com/mod/e4mc)
+
+### Support & Setup
+- [Crash Assistant](https://modrinth.com/mod/crash-assistant)
+- [Default Options](https://modrinth.com/mod/default-options)
 
 ### Scripting
 - [KubeJS](https://modrinth.com/mod/kubejs)
@@ -78,13 +88,17 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 ### Libraries
 - [Architectury API](https://modrinth.com/mod/architectury-api)
 - [Balm](https://modrinth.com/mod/balm)
+- [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [Curios API](https://modrinth.com/mod/curios)
+- [MezzConfig](https://modrinth.com/mod/mezzconfig)
 - [Moonlight](https://modrinth.com/mod/moonlight)
-- [ImGuiMC](https://modrinth.com/mod/imguimc)
+- [Veil](https://modrinth.com/mod/veil)
 
 ## Features and Customizations
 - **Recipe Package Attribute Filter:** Added an Attribute Filter that checks whether a given Package contains a recipe (e.g., used by a Mechanical Crafter).
 - **Quartz Recipe**: Quartz Blocks can now be crafted back into 4 Quartz.
+- **Mechanical Pump Range:** The maximum distance of a Mechanical Pump is raised from 16 to 18 blocks.
+- **Client Defaults:** On a fresh install the game starts with a dark loading screen, without the accessibility onboarding, tutorial hints, multiplayer warning, or telemetry prompt (via Default Options). Existing settings are never overwritten.
 - **Gamerules**
     - WaterSourceConversion is set to true
     - LavaSourceConversion is set to true
@@ -92,9 +106,15 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 
 ## Compatibility
 - Minecraft: 1.21.1
-- NeoForge: 21.1.251
+- NeoForge: 21.1.267
 - Iris: 1.8.14-beta.1
 - Sodium: 0.8.13
+
+## Known Issues
+- The Create Deco Placard recipe fails to load, so the Placard cannot be crafted. This comes from the mod itself.
+- Vista can show visual glitches and reduced performance while Iris is installed, even with shaders turned off.
+- Create: Power Grid may fall back to its slower solver if its native library cannot be loaded on your system.
+- Sophisticated Core and Create: Enchantment Industry both provide an experience fluid, but they are not fully compatible. Sophisticated Core's fluid (`sophisticatedcore:xp_still`) does not spawn XP orbs when pumped out of an open pipe and cannot be used properly with the Enchantment Industry XP Hatch. Create: Enchantment Industry's own experience fluid works correctly. See [Github issue #1](https://github.com/Erik-Donath/create-new-horizons/issues/1).
 
 ## Links
 - Modrinth: https://modrinth.com/project/create-new-horizons
@@ -102,3 +122,4 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Erik-Donath/create-new-horizons/blob/master/LICENSE) file for details.
+ 
