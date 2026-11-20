@@ -6,7 +6,7 @@ hash = "5070a197c8dc23216223ad7b42779d2c662bb93ac13ec609e7b435a0a16a2edd"
 
 [[files]]
 file = "README.md"
-hash = "9980f11db33ff32a6e5a89ccaef001c11c34a7e377398cf3e0aad295d8fa20e9"
+hash = "6f2d9ce221594210894877177ee9812f568a77c6b29ffc440329483f867b7ee5"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
@@ -22,7 +22,7 @@ hash = "99c368f1f86ede2bf35b8f2fe951b5adc72348ee94139c4eff7fce2aee53b571"
 
 [[files]]
 file = "config/dynamic_fps.json"
-hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
+hash = "10797bbd6c53102911a0fa3337fad9d1b679fc2fea5b2bd8ed6bad4d942b39a7"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
