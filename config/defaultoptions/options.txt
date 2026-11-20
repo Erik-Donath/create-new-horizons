@@ -1,0 +1,7 @@
+version:3955
+darkMojangStudiosBackground:true
+joinedFirstServer:true
+onboardAccessibility:false
+skipMultiplayerWarning:true
+telemetryOptInExtra:false
+tutorialStep:none

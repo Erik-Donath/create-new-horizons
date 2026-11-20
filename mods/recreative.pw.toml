@@ -1,13 +1,13 @@
 name = "Recreative"
-filename = "recreative-neoforge-1.21.1-2.2.2.jar"
+filename = "recreative-3.1.0+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EBWdtRFr/versions/F8vezYh1/recreative-neoforge-1.21.1-2.2.2.jar"
+url = "https://cdn.modrinth.com/data/EBWdtRFr/versions/YWil4hIl/recreative-3.1.0%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "5f6842779f426454639dfda60e01e06d69c1caa7d4447315416d7656caa114a18c9495daf0ad365e9327c396dae11170ed2f669a4be43ae15c610adf14788f8d"
+hash = "85dece1653126885a6cf313878bf0565b428e3f5adad857e27fddd01f2cf867118c9e3653cefcc32734bc4de3a1920c46fdcfb5262881c3700efb1564d773345"
 
 [update]
 [update.modrinth]
 mod-id = "EBWdtRFr"
-version = "F8vezYh1"
+version = "YWil4hIl"

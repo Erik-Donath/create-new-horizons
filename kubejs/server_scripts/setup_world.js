@@ -1,4 +1,4 @@
-const MODPACK_VERSION = "1.0.5"
+const MODPACK_VERSION = "1.0.6"
 
 ServerEvents.loaded(event => {
     let server = event.server

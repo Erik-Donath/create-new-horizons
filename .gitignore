@@ -1,8 +1,7 @@
+
 # Exclude exported CurseForge zip files
-*.zip
-
 # Exclude exported Modrinth modpacks
-*.mrpack
-
 # Exclude .probe
+*.mrpack
 .probe
+*.zip
