@@ -6,11 +6,11 @@ hash = "5070a197c8dc23216223ad7b42779d2c662bb93ac13ec609e7b435a0a16a2edd"
 
 [[files]]
 file = "README.md"
-hash = "6f2d9ce221594210894877177ee9812f568a77c6b29ffc440329483f867b7ee5"
+hash = "7d2e44551d87f7bfd81e47d9c3396f3929c9e4a740d9d54e9318fc3bf2bad896"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "b6930fe2606fd8d355b808627e463e61996c6a4b356ed43d0f9c6f2b6e24ca8b"
+hash = "497b60347d67d69123ecfb3ffded4f44bbe265b0c9f269765440f3aa73cda1a8"
 
 [[files]]
 file = "config/create-server.toml"
