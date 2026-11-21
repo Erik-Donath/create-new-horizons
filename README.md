@@ -122,4 +122,3 @@ Create New Horizons is a lightweight, Create-focused modpack built around buildi
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Erik-Donath/create-new-horizons/blob/master/LICENSE) file for details.
- 
